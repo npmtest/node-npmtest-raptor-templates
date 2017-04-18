@@ -1,0 +1,598 @@
+<svg height="9518" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="9518" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 22:38:19 +0000   413978 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 22:38:19 +0000    44245 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 22:38:19 +0000       44 bytes  bin/rhtmlc</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 22:38:19 +0000     8103 bytes  bin/rhtmlc.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 22:38:19 +0000    11936 bytes  compiler/ElementNode.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 22:38:19 +0000      683 bytes  compiler/EscapeXmlContext.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 22:38:19 +0000     1687 bytes  compiler/Expression.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 22:38:19 +0000    19377 bytes  compiler/Node.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 22:38:19 +0000     4594 bytes  compiler/ParseTreeBuilder.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 22:38:19 +0000     2941 bytes  compiler/ParseTreeBuilderHtml.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 22:38:19 +0000     2451 bytes  compiler/ParseTreeBuilderXml.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 22:38:19 +0000    16055 bytes  compiler/TemplateBuilder.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 22:38:19 +0000    11301 bytes  compiler/TemplateCompiler.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 22:38:19 +0000     6163 bytes  compiler/TextNode.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 22:38:19 +0000     3286 bytes  compiler/TypeConverter.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 22:38:19 +0000     5375 bytes  compiler/attribute-parser.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 22:38:19 +0000    17315 bytes  compiler/expression-parser.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 22:38:19 +0000      229 bytes  compiler/expressions.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 22:38:19 +0000       48 bytes  compiler/package.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 22:38:19 +0000      463 bytes  compiler/parser.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 22:38:19 +0000     3824 bytes  compiler/raptor-templates-compiler.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 22:38:19 +0000     7920 bytes  compiler/taglibs/Taglib.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 22:38:19 +0000     7115 bytes  compiler/taglibs/TaglibLookup.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 22:38:19 +0000      282 bytes  compiler/taglibs/index.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 22:38:19 +0000     1583 bytes  compiler/taglibs/tag-def-from-code.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 22:38:19 +0000    13396 bytes  compiler/taglibs/taglib-loader.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 22:38:19 +0000     3398 bytes  compiler/taglibs/taglib-lookup.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 22:38:19 +0000      136 bytes  migration.md</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 22:38:19 +0000     3403 bytes  package.json</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 22:38:19 +0000      197 bytes  runtime/async-optimizer.json</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 22:38:19 +0000     3237 bytes  runtime/helpers.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 22:38:19 +0000     1290 bytes  runtime/loader.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 22:38:19 +0000      231 bytes  runtime/loader_browser.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 22:38:19 +0000      116 bytes  runtime/package.json</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 22:38:19 +0000     4604 bytes  runtime/raptor-templates-runtime.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 22:38:19 +0000     1815 bytes  taglibs/caching/cached-fragment-tag.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 22:38:19 +0000      327 bytes  taglibs/caching/raptor-taglib.json</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 22:38:19 +0000     1421 bytes  taglibs/core/AssignNode.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 22:38:19 +0000     2678 bytes  taglibs/core/ChooseNode.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 22:38:19 +0000     2276 bytes  taglibs/core/DefNode.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 22:38:19 +0000     1202 bytes  taglibs/core/ElseIfNode.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 22:38:19 +0000     1126 bytes  taglibs/core/ElseNode.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 22:38:19 +0000     9302 bytes  taglibs/core/ForNode.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 22:38:19 +0000     1158 bytes  taglibs/core/IfNode.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 22:38:19 +0000     3199 bytes  taglibs/core/IncludeNode.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 22:38:19 +0000     3783 bytes  taglibs/core/InvokeNode.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 22:38:19 +0000     1061 bytes  taglibs/core/OtherwiseNode.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 22:38:19 +0000     1282 bytes  taglibs/core/RequireNode.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 22:38:19 +0000      985 bytes  taglibs/core/ScriptletNode.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 22:38:19 +0000     6829 bytes  taglibs/core/TagHandlerNode.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 22:38:19 +0000     1370 bytes  taglibs/core/TemplateNode.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 22:38:19 +0000     1583 bytes  taglibs/core/VarNode.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 22:38:19 +0000     1326 bytes  taglibs/core/WhenNode.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 22:38:19 +0000     2003 bytes  taglibs/core/WithNode.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 22:38:19 +0000     1792 bytes  taglibs/core/WriteNode.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 22:38:19 +0000    16170 bytes  taglibs/core/core-tag-transformer.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 22:38:19 +0000     3002 bytes  taglibs/core/core-text-transformer.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 22:38:19 +0000     1920 bytes  taglibs/core/else-tag-transformer.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 22:38:19 +0000     8188 bytes  taglibs/core/raptor-taglib.json</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 22:38:19 +0000      182 bytes  taglibs/html/CommentTag.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 22:38:19 +0000     1436 bytes  taglibs/html/DocTypeNode.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 22:38:19 +0000     1946 bytes  taglibs/html/html-tag-transformer.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 22:38:19 +0000      540 bytes  taglibs/html/raptor-taglib.json</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 22:38:19 +0000       73 bytes  test-compiler.sh</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 22:38:19 +0000       77 bytes  test-render-rhtml.sh</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 22:38:19 +0000       76 bytes  test-render-rxml.sh</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 22:38:19 +0000       78 bytes  test-taglib-lookup.sh</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 22:38:19 +0000     6788 bytes  test/api-tests.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 22:38:19 +0000     2263 bytes  test/compiler-tests.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 22:38:19 +0000     2915 bytes  test/dust-tests.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 22:38:19 +0000     8038 bytes  test/raptor-taglib-test.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 22:38:19 +0000    10523 bytes  test/render-async-tests.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 22:38:19 +0000    15424 bytes  test/render-rhtml-tests.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 22:38:19 +0000    14217 bytes  test/render-rxml-tests.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 22:38:19 +0000       26 bytes  test/test-project/custom-tag.rhtml</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/custom-tag.rhtml.expected.html</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 22:38:19 +0000      338 bytes  test/test-project/custom-tag.rhtml.expected.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 22:38:19 +0000      183 bytes  test/test-project/default-attributes-tag.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 22:38:19 +0000      447 bytes  test/test-project/dust/async.dust</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 22:38:19 +0000      537 bytes  test/test-project/dust/async.dust.expected.html</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 22:38:19 +0000      496 bytes  test/test-project/dynamic-attributes-tag.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 22:38:19 +0000      483 bytes  test/test-project/dynamic-attributes-tag2.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 22:38:19 +0000      294 bytes  test/test-project/dynamic-attributes-tag3.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 22:38:19 +0000      101 bytes  test/test-project/hello-async.rhtml</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 22:38:19 +0000       64 bytes  test/test-project/hello-dynamic.rhtml</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 22:38:19 +0000       31 bytes  test/test-project/hello-dynamic.rhtml.expected.h\</tspan>
+<tspan x="10" y="1402">tml</tspan>
+<tspan x="10" y="1418"> 86.  2017-04-18 22:38:19 +0000      362 bytes  test/test-project/hello-dynamic.rhtml.expected.j\</tspan>
+<tspan x="10" y="1434">s</tspan>
+<tspan x="10" y="1450"> 87.  2017-04-18 22:38:19 +0000       30 bytes  test/test-project/hello-error.rhtml</tspan>
+<tspan x="10" y="1466"> 88.  2017-04-18 22:38:19 +0000       91 bytes  test/test-project/hello-renderer.js</tspan>
+<tspan x="10" y="1482"> 89.  2017-04-18 22:38:19 +0000      175 bytes  test/test-project/hello-tag.json</tspan>
+<tspan x="10" y="1498"> 90.  2017-04-18 22:38:19 +0000       17 bytes  test/test-project/hello.rhtml</tspan>
+<tspan x="10" y="1514"> 91.  2017-04-18 22:38:19 +0000       74 bytes  test/test-project/nested/foo-renderer.js</tspan>
+<tspan x="10" y="1530"> 92.  2017-04-18 22:38:19 +0000      178 bytes  test/test-project/nested/raptor-taglib.json</tspan>
+<tspan x="10" y="1546"> 93.  2017-04-18 22:38:19 +0000       20 bytes  test/test-project/page-title-tag.rhtml</tspan>
+<tspan x="10" y="1562"> 94.  2017-04-18 22:38:19 +0000      249 bytes  test/test-project/popover-tag.js</tspan>
+<tspan x="10" y="1578"> 95.  2017-04-18 22:38:19 +0000      243 bytes  test/test-project/popover.rhtml</tspan>
+<tspan x="10" y="1594"> 96.  2017-04-18 22:38:19 +0000     2507 bytes  test/test-project/raptor-taglib.json</tspan>
+<tspan x="10" y="1610"> 97.  2017-04-18 22:38:19 +0000      496 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1626">-args.rhtml</tspan>
+<tspan x="10" y="1642"> 98.  2017-04-18 22:38:19 +0000      537 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1658">-args.rhtml.expected.html</tspan>
+<tspan x="10" y="1674"> 99.  2017-04-18 22:38:19 +0000      169 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1690">-data-providers.rhtml</tspan>
+<tspan x="10" y="1706">100.  2017-04-18 22:38:19 +0000       29 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1722">-data-providers.rhtml.expected.html</tspan>
+<tspan x="10" y="1738">101.  2017-04-18 22:38:19 +0000      107 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1754">-function-data-provider.rhtml</tspan>
+<tspan x="10" y="1770">102.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1786">-function-data-provider.rhtml.expected.html</tspan>
+<tspan x="10" y="1802">103.  2017-04-18 22:38:19 +0000      159 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1818">-macros.rhtml</tspan>
+<tspan x="10" y="1834">104.  2017-04-18 22:38:19 +0000        5 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1850">-macros.rhtml.expected.html</tspan>
+<tspan x="10" y="1866">105.  2017-04-18 22:38:19 +0000      321 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1882">-ordering.rhtml</tspan>
+<tspan x="10" y="1898">106.  2017-04-18 22:38:19 +0000       17 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1914">-ordering.rhtml.expected.html</tspan>
+<tspan x="10" y="1930">107.  2017-04-18 22:38:19 +0000      684 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1946">-ordering2.rhtml</tspan>
+<tspan x="10" y="1962">108.  2017-04-18 22:38:19 +0000       41 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="1978">-ordering2.rhtml.expected.html</tspan>
+<tspan x="10" y="1994">109.  2017-04-18 22:38:19 +0000       97 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="2010">-promise.rhtml</tspan>
+<tspan x="10" y="2026">110.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="2042">-promise.rhtml.expected.html</tspan>
+<tspan x="10" y="2058">111.  2017-04-18 22:38:19 +0000      147 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="2074">-timeout-message.rhtml</tspan>
+<tspan x="10" y="2090">112.  2017-04-18 22:38:19 +0000       15 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="2106">-timeout-message.rhtml.expected.html</tspan>
+<tspan x="10" y="2122">113.  2017-04-18 22:38:19 +0000      558 bytes  test/test-project/rhtml-templates/async-fragment\</tspan>
+<tspan x="10" y="2138">.rhtml</tspan>
+<tspan x="10" y="2154">114.  2017-04-18 22:38:19 +0000      127 bytes  test/test-project/rhtml-templates/attrs.rhtml</tspan>
+<tspan x="10" y="2170">115.  2017-04-18 22:38:19 +0000      120 bytes  test/test-project/rhtml-templates/attrs.rhtml.ex\</tspan>
+<tspan x="10" y="2186">pected.html</tspan>
+<tspan x="10" y="2202">116.  2017-04-18 22:38:19 +0000       95 bytes  test/test-project/rhtml-templates/beginAsync.rht\</tspan>
+<tspan x="10" y="2218">ml</tspan>
+<tspan x="10" y="2234">117.  2017-04-18 22:38:19 +0000        3 bytes  test/test-project/rhtml-templates/beginAsync.rht\</tspan>
+<tspan x="10" y="2250">ml.expected.html</tspan>
+<tspan x="10" y="2266">118.  2017-04-18 22:38:19 +0000      474 bytes  test/test-project/rhtml-templates/caching.rhtml</tspan>
+<tspan x="10" y="2282">119.  2017-04-18 22:38:19 +0000       48 bytes  test/test-project/rhtml-templates/caching.rhtml.\</tspan>
+<tspan x="10" y="2298">expected.html</tspan>
+<tspan x="10" y="2314">120.  2017-04-18 22:38:19 +0000       19 bytes  test/test-project/rhtml-templates/cdata.rhtml</tspan>
+<tspan x="10" y="2330">121.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rhtml-templates/cdata.rhtml.ex\</tspan>
+<tspan x="10" y="2346">pected.html</tspan>
+<tspan x="10" y="2362">122.  2017-04-18 22:38:19 +0000      326 bytes  test/test-project/rhtml-templates/choose-when-at\</tspan>
+<tspan x="10" y="2378">tributes.rhtml</tspan>
+<tspan x="10" y="2394">123.  2017-04-18 22:38:19 +0000       70 bytes  test/test-project/rhtml-templates/choose-when-at\</tspan>
+<tspan x="10" y="2410">tributes.rhtml.expected.html</tspan>
+<tspan x="10" y="2426">124.  2017-04-18 22:38:19 +0000      294 bytes  test/test-project/rhtml-templates/choose-when.rh\</tspan>
+<tspan x="10" y="2442">tml</tspan>
+<tspan x="10" y="2458">125.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rhtml-templates/choose-when.rh\</tspan>
+<tspan x="10" y="2474">tml.expected.html</tspan>
+<tspan x="10" y="2490">126.  2017-04-18 22:38:19 +0000      111 bytes  test/test-project/rhtml-templates/conditional-at\</tspan>
+<tspan x="10" y="2506">tributes.rhtml</tspan>
+<tspan x="10" y="2522">127.  2017-04-18 22:38:19 +0000       52 bytes  test/test-project/rhtml-templates/conditional-at\</tspan>
+<tspan x="10" y="2538">tributes.rhtml.expected.html</tspan>
+<tspan x="10" y="2554">128.  2017-04-18 22:38:19 +0000       89 bytes  test/test-project/rhtml-templates/content.rhtml</tspan>
+<tspan x="10" y="2570">129.  2017-04-18 22:38:19 +0000       16 bytes  test/test-project/rhtml-templates/content.rhtml.\</tspan>
+<tspan x="10" y="2586">expected.html</tspan>
+<tspan x="10" y="2602">130.  2017-04-18 22:38:19 +0000      422 bytes  test/test-project/rhtml-templates/data-binding.r\</tspan>
+<tspan x="10" y="2618">html</tspan>
+<tspan x="10" y="2634">131.  2017-04-18 22:38:19 +0000      500 bytes  test/test-project/rhtml-templates/def.rhtml</tspan>
+<tspan x="10" y="2650">132.  2017-04-18 22:38:19 +0000      175 bytes  test/test-project/rhtml-templates/def.rhtml.expe\</tspan>
+<tspan x="10" y="2666">cted.html</tspan>
+<tspan x="10" y="2682">133.  2017-04-18 22:38:19 +0000      114 bytes  test/test-project/rhtml-templates/default-attrib\</tspan>
+<tspan x="10" y="2698">utes.rhtml</tspan>
+<tspan x="10" y="2714">134.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rhtml-templates/default-attrib\</tspan>
+<tspan x="10" y="2730">utes.rhtml.expected.html</tspan>
+<tspan x="10" y="2746">135.  2017-04-18 22:38:19 +0000      248 bytes  test/test-project/rhtml-templates/doctype.rhtml</tspan>
+<tspan x="10" y="2762">136.  2017-04-18 22:38:19 +0000      183 bytes  test/test-project/rhtml-templates/doctype.rhtml.\</tspan>
+<tspan x="10" y="2778">expected.html</tspan>
+<tspan x="10" y="2794">137.  2017-04-18 22:38:19 +0000       66 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2810">utes.rhtml</tspan>
+<tspan x="10" y="2826">138.  2017-04-18 22:38:19 +0000       57 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2842">utes.rhtml.expected.html</tspan>
+<tspan x="10" y="2858">139.  2017-04-18 22:38:19 +0000       67 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2874">utes2.rhtml</tspan>
+<tspan x="10" y="2890">140.  2017-04-18 22:38:19 +0000       57 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2906">utes2.rhtml.expected.html</tspan>
+<tspan x="10" y="2922">141.  2017-04-18 22:38:19 +0000       67 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2938">utes3.rhtml</tspan>
+<tspan x="10" y="2954">142.  2017-04-18 22:38:19 +0000       65 bytes  test/test-project/rhtml-templates/dynamic-attrib\</tspan>
+<tspan x="10" y="2970">utes3.rhtml.expected.html</tspan>
+<tspan x="10" y="2986">143.  2017-04-18 22:38:19 +0000      295 bytes  test/test-project/rhtml-templates/entities.rhtml</tspan>
+<tspan x="10" y="3002">144.  2017-04-18 22:38:19 +0000      204 bytes  test/test-project/rhtml-templates/entities.rhtml\</tspan>
+<tspan x="10" y="3018">.expected.html</tspan>
+<tspan x="10" y="3034">145.  2017-04-18 22:38:19 +0000     1402 bytes  test/test-project/rhtml-templates/errors.rhtml</tspan>
+<tspan x="10" y="3050">146.  2017-04-18 22:38:19 +0000       82 bytes  test/test-project/rhtml-templates/escape-xml-dis\</tspan>
+<tspan x="10" y="3066">abled.rhtml</tspan>
+<tspan x="10" y="3082">147.  2017-04-18 22:38:19 +0000       33 bytes  test/test-project/rhtml-templates/escape-xml-dis\</tspan>
+<tspan x="10" y="3098">abled.rhtml.expected.html</tspan>
+<tspan x="10" y="3114">148.  2017-04-18 22:38:19 +0000       81 bytes  test/test-project/rhtml-templates/escape-xml-ena\</tspan>
+<tspan x="10" y="3130">bled.rhtml</tspan>
+<tspan x="10" y="3146">149.  2017-04-18 22:38:19 +0000       47 bytes  test/test-project/rhtml-templates/escape-xml-ena\</tspan>
+<tspan x="10" y="3162">bled.rhtml.expected.html</tspan>
+<tspan x="10" y="3178">150.  2017-04-18 22:38:19 +0000       62 bytes  test/test-project/rhtml-templates/escaped.rhtml</tspan>
+<tspan x="10" y="3194">151.  2017-04-18 22:38:19 +0000       28 bytes  test/test-project/rhtml-templates/escaped.rhtml.\</tspan>
+<tspan x="10" y="3210">expected.html</tspan>
+<tspan x="10" y="3226">152.  2017-04-18 22:38:19 +0000       32 bytes  test/test-project/rhtml-templates/expressions.rh\</tspan>
+<tspan x="10" y="3242">tml</tspan>
+<tspan x="10" y="3258">153.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rhtml-templates/expressions.rh\</tspan>
+<tspan x="10" y="3274">tml.expected.html</tspan>
+<tspan x="10" y="3290">154.  2017-04-18 22:38:19 +0000      100 bytes  test/test-project/rhtml-templates/html.rhtml</tspan>
+<tspan x="10" y="3306">155.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/rhtml-templates/html.rhtml.exp\</tspan>
+<tspan x="10" y="3322">ected.html</tspan>
+<tspan x="10" y="3338">156.  2017-04-18 22:38:19 +0000      320 bytes  test/test-project/rhtml-templates/if-else.rhtml</tspan>
+<tspan x="10" y="3354">157.  2017-04-18 22:38:19 +0000       24 bytes  test/test-project/rhtml-templates/if-else.rhtml.\</tspan>
+<tspan x="10" y="3370">expected.html</tspan>
+<tspan x="10" y="3386">158.  2017-04-18 22:38:19 +0000      270 bytes  test/test-project/rhtml-templates/include-nested\</tspan>
+<tspan x="10" y="3402">-content.rhtml</tspan>
+<tspan x="10" y="3418">159.  2017-04-18 22:38:19 +0000       75 bytes  test/test-project/rhtml-templates/include-resour\</tspan>
+<tspan x="10" y="3434">ce-static.rhtml</tspan>
+<tspan x="10" y="3450">160.  2017-04-18 22:38:19 +0000       22 bytes  test/test-project/rhtml-templates/include-resour\</tspan>
+<tspan x="10" y="3466">ce-static.rhtml.expected.html</tspan>
+<tspan x="10" y="3482">161.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rhtml-templates/include-resour\</tspan>
+<tspan x="10" y="3498">ce-target.txt</tspan>
+<tspan x="10" y="3514">162.  2017-04-18 22:38:19 +0000      123 bytes  test/test-project/rhtml-templates/include-target\</tspan>
+<tspan x="10" y="3530">.rhtml</tspan>
+<tspan x="10" y="3546">163.  2017-04-18 22:38:19 +0000      389 bytes  test/test-project/rhtml-templates/include.rhtml</tspan>
+<tspan x="10" y="3562">164.  2017-04-18 22:38:19 +0000      222 bytes  test/test-project/rhtml-templates/include.rhtml.\</tspan>
+<tspan x="10" y="3578">expected.html</tspan>
+<tspan x="10" y="3594">165.  2017-04-18 22:38:19 +0000        3 bytes  test/test-project/rhtml-templates/include.rhtml.\</tspan>
+<tspan x="10" y="3610">expected.js</tspan>
+<tspan x="10" y="3626">166.  2017-04-18 22:38:19 +0000      271 bytes  test/test-project/rhtml-templates/inline-script.\</tspan>
+<tspan x="10" y="3642">rhtml</tspan>
+<tspan x="10" y="3658">167.  2017-04-18 22:38:19 +0000      184 bytes  test/test-project/rhtml-templates/inline-script.\</tspan>
+<tspan x="10" y="3674">rhtml.expected.html</tspan>
+<tspan x="10" y="3690">168.  2017-04-18 22:38:19 +0000      557 bytes  test/test-project/rhtml-templates/invoke.rhtml</tspan>
+<tspan x="10" y="3706">169.  2017-04-18 22:38:19 +0000      119 bytes  test/test-project/rhtml-templates/invoke.rhtml.e\</tspan>
+<tspan x="10" y="3722">xpected.html</tspan>
+<tspan x="10" y="3738">170.  2017-04-18 22:38:19 +0000      252 bytes  test/test-project/rhtml-templates/layout-default\</tspan>
+<tspan x="10" y="3754">.rhtml</tspan>
+<tspan x="10" y="3770">171.  2017-04-18 22:38:19 +0000      905 bytes  test/test-project/rhtml-templates/layout-use.rht\</tspan>
+<tspan x="10" y="3786">ml</tspan>
+<tspan x="10" y="3802">172.  2017-04-18 22:38:19 +0000      214 bytes  test/test-project/rhtml-templates/layout-use.rht\</tspan>
+<tspan x="10" y="3818">ml.expected.html</tspan>
+<tspan x="10" y="3834">173.  2017-04-18 22:38:19 +0000      435 bytes  test/test-project/rhtml-templates/looping-iterat\</tspan>
+<tspan x="10" y="3850">or.rhtml</tspan>
+<tspan x="10" y="3866">174.  2017-04-18 22:38:19 +0000       90 bytes  test/test-project/rhtml-templates/looping-iterat\</tspan>
+<tspan x="10" y="3882">or.rhtml.expected.html</tspan>
+<tspan x="10" y="3898">175.  2017-04-18 22:38:19 +0000      197 bytes  test/test-project/rhtml-templates/looping-props.\</tspan>
+<tspan x="10" y="3914">rhtml</tspan>
+<tspan x="10" y="3930">176.  2017-04-18 22:38:19 +0000       65 bytes  test/test-project/rhtml-templates/looping-props.\</tspan>
+<tspan x="10" y="3946">rhtml.expected.html</tspan>
+<tspan x="10" y="3962">177.  2017-04-18 22:38:19 +0000      379 bytes  test/test-project/rhtml-templates/looping-range.\</tspan>
+<tspan x="10" y="3978">rhtml</tspan>
+<tspan x="10" y="3994">178.  2017-04-18 22:38:19 +0000       66 bytes  test/test-project/rhtml-templates/looping-range.\</tspan>
+<tspan x="10" y="4010">rhtml.expected.html</tspan>
+<tspan x="10" y="4026">179.  2017-04-18 22:38:19 +0000      418 bytes  test/test-project/rhtml-templates/looping.rhtml</tspan>
+<tspan x="10" y="4042">180.  2017-04-18 22:38:19 +0000      199 bytes  test/test-project/rhtml-templates/looping.rhtml.\</tspan>
+<tspan x="10" y="4058">expected.html</tspan>
+<tspan x="10" y="4074">181.  2017-04-18 22:38:19 +0000      432 bytes  test/test-project/rhtml-templates/nested-attrs.r\</tspan>
+<tspan x="10" y="4090">html</tspan>
+<tspan x="10" y="4106">182.  2017-04-18 22:38:19 +0000      161 bytes  test/test-project/rhtml-templates/nested-attrs.r\</tspan>
+<tspan x="10" y="4122">html.expected.html</tspan>
+<tspan x="10" y="4138">183.  2017-04-18 22:38:19 +0000      329 bytes  test/test-project/rhtml-templates/nested-handler\</tspan>
+<tspan x="10" y="4154">s.rhtml</tspan>
+<tspan x="10" y="4170">184.  2017-04-18 22:38:19 +0000      313 bytes  test/test-project/rhtml-templates/nested-handler\</tspan>
+<tspan x="10" y="4186">s.rhtml.expected.html</tspan>
+<tspan x="10" y="4202">185.  2017-04-18 22:38:19 +0000      353 bytes  test/test-project/rhtml-templates/optimizer-dyna\</tspan>
+<tspan x="10" y="4218">mic.rhtml</tspan>
+<tspan x="10" y="4234">186.  2017-04-18 22:38:19 +0000      322 bytes  test/test-project/rhtml-templates/optimizer.rhtm\</tspan>
+<tspan x="10" y="4250">l</tspan>
+<tspan x="10" y="4266">187.  2017-04-18 22:38:19 +0000      275 bytes  test/test-project/rhtml-templates/replace.rhtml</tspan>
+<tspan x="10" y="4282">188.  2017-04-18 22:38:19 +0000       19 bytes  test/test-project/rhtml-templates/replace.rhtml.\</tspan>
+<tspan x="10" y="4298">expected.html</tspan>
+<tspan x="10" y="4314">189.  2017-04-18 22:38:19 +0000      138 bytes  test/test-project/rhtml-templates/require.rhtml</tspan>
+<tspan x="10" y="4330">190.  2017-04-18 22:38:19 +0000       25 bytes  test/test-project/rhtml-templates/require.rhtml.\</tspan>
+<tspan x="10" y="4346">expected.html</tspan>
+<tspan x="10" y="4362">191.  2017-04-18 22:38:19 +0000      155 bytes  test/test-project/rhtml-templates/scanned-tags.r\</tspan>
+<tspan x="10" y="4378">html</tspan>
+<tspan x="10" y="4394">192.  2017-04-18 22:38:19 +0000      132 bytes  test/test-project/rhtml-templates/scanned-tags.r\</tspan>
+<tspan x="10" y="4410">html.expected.html</tspan>
+<tspan x="10" y="4426">193.  2017-04-18 22:38:19 +0000       63 bytes  test/test-project/rhtml-templates/script-tag-ent\</tspan>
+<tspan x="10" y="4442">ities.rhtml</tspan>
+<tspan x="10" y="4458">194.  2017-04-18 22:38:19 +0000       79 bytes  test/test-project/rhtml-templates/script-tag-ent\</tspan>
+<tspan x="10" y="4474">ities.rhtml.expected.html</tspan>
+<tspan x="10" y="4490">195.  2017-04-18 22:38:19 +0000       72 bytes  test/test-project/rhtml-templates/scriptlet.rhtm\</tspan>
+<tspan x="10" y="4506">l</tspan>
+<tspan x="10" y="4522">196.  2017-04-18 22:38:19 +0000        7 bytes  test/test-project/rhtml-templates/scriptlet.rhtm\</tspan>
+<tspan x="10" y="4538">l.expected.html</tspan>
+<tspan x="10" y="4554">197.  2017-04-18 22:38:19 +0000      432 bytes  test/test-project/rhtml-templates/simple-conditi\</tspan>
+<tspan x="10" y="4570">onals.rhtml</tspan>
+<tspan x="10" y="4586">198.  2017-04-18 22:38:19 +0000      167 bytes  test/test-project/rhtml-templates/simple-conditi\</tspan>
+<tspan x="10" y="4602">onals.rhtml.expected.html</tspan>
+<tspan x="10" y="4618">199.  2017-04-18 22:38:19 +0000      282 bytes  test/test-project/rhtml-templates/simple-handler\</tspan>
+<tspan x="10" y="4634">s.rhtml</tspan>
+<tspan x="10" y="4650">200.  2017-04-18 22:38:19 +0000      122 bytes  test/test-project/rhtml-templates/simple-handler\</tspan>
+<tspan x="10" y="4666">s.rhtml.expected.html</tspan>
+<tspan x="10" y="4682">201.  2017-04-18 22:38:19 +0000      338 bytes  test/test-project/rhtml-templates/simple.rhtml</tspan>
+<tspan x="10" y="4698">202.  2017-04-18 22:38:19 +0000      139 bytes  test/test-project/rhtml-templates/simple.rhtml.e\</tspan>
+<tspan x="10" y="4714">xpected.html</tspan>
+<tspan x="10" y="4730">203.  2017-04-18 22:38:19 +0000      276 bytes  test/test-project/rhtml-templates/simple.rhtml.m\</tspan>
+<tspan x="10" y="4746">in.js</tspan>
+<tspan x="10" y="4762">204.  2017-04-18 22:38:19 +0000      166 bytes  test/test-project/rhtml-templates/string-express\</tspan>
+<tspan x="10" y="4778">ions.rhtml</tspan>
+<tspan x="10" y="4794">205.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rhtml-templates/string-express\</tspan>
+<tspan x="10" y="4810">ions.rhtml.expected.html</tspan>
+<tspan x="10" y="4826">206.  2017-04-18 22:38:19 +0000      223 bytes  test/test-project/rhtml-templates/strip.rhtml</tspan>
+<tspan x="10" y="4842">207.  2017-04-18 22:38:19 +0000      102 bytes  test/test-project/rhtml-templates/strip.rhtml.ex\</tspan>
+<tspan x="10" y="4858">pected.html</tspan>
+<tspan x="10" y="4874">208.  2017-04-18 22:38:19 +0000     1277 bytes  test/test-project/rhtml-templates/svg.rhtml</tspan>
+<tspan x="10" y="4890">209.  2017-04-18 22:38:19 +0000       34 bytes  test/test-project/rhtml-templates/tag-input-expr\</tspan>
+<tspan x="10" y="4906">essions.rhtml</tspan>
+<tspan x="10" y="4922">210.  2017-04-18 22:38:19 +0000       23 bytes  test/test-project/rhtml-templates/tag-input-expr\</tspan>
+<tspan x="10" y="4938">essions.rhtml.expected.html</tspan>
+<tspan x="10" y="4954">211.  2017-04-18 22:38:19 +0000       57 bytes  test/test-project/rhtml-templates/template-as-ta\</tspan>
+<tspan x="10" y="4970">g.rhtml</tspan>
+<tspan x="10" y="4986">212.  2017-04-18 22:38:19 +0000       33 bytes  test/test-project/rhtml-templates/template-as-ta\</tspan>
+<tspan x="10" y="5002">g.rhtml.expected.html</tspan>
+<tspan x="10" y="5018">213.  2017-04-18 22:38:19 +0000       52 bytes  test/test-project/rhtml-templates/template-tag-d\</tspan>
+<tspan x="10" y="5034">ynamic-attributes.rhtml</tspan>
+<tspan x="10" y="5050">214.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rhtml-templates/template-tag-d\</tspan>
+<tspan x="10" y="5066">ynamic-attributes.rhtml.expected.html</tspan>
+<tspan x="10" y="5082">215.  2017-04-18 22:38:19 +0000      191 bytes  test/test-project/rhtml-templates/test-helpers.j\</tspan>
+<tspan x="10" y="5098">s</tspan>
+<tspan x="10" y="5114">216.  2017-04-18 22:38:19 +0000      122 bytes  test/test-project/rhtml-templates/text-replaceme\</tspan>
+<tspan x="10" y="5130">nt.rhtml</tspan>
+<tspan x="10" y="5146">217.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rhtml-templates/text-replaceme\</tspan>
+<tspan x="10" y="5162">nt.rhtml.expected.html</tspan>
+<tspan x="10" y="5178">218.  2017-04-18 22:38:19 +0000      218 bytes  test/test-project/rhtml-templates/var.rhtml</tspan>
+<tspan x="10" y="5194">219.  2017-04-18 22:38:19 +0000       96 bytes  test/test-project/rhtml-templates/var.rhtml.expe\</tspan>
+<tspan x="10" y="5210">cted.html</tspan>
+<tspan x="10" y="5226">220.  2017-04-18 22:38:19 +0000      250 bytes  test/test-project/rhtml-templates/whitespace-inl\</tspan>
+<tspan x="10" y="5242">ine-elements.rhtml</tspan>
+<tspan x="10" y="5258">221.  2017-04-18 22:38:19 +0000      176 bytes  test/test-project/rhtml-templates/whitespace-inl\</tspan>
+<tspan x="10" y="5274">ine-elements.rhtml.expected.html</tspan>
+<tspan x="10" y="5290">222.  2017-04-18 22:38:19 +0000     1299 bytes  test/test-project/rhtml-templates/whitespace.rht\</tspan>
+<tspan x="10" y="5306">ml</tspan>
+<tspan x="10" y="5322">223.  2017-04-18 22:38:19 +0000      299 bytes  test/test-project/rhtml-templates/whitespace.rht\</tspan>
+<tspan x="10" y="5338">ml.expected.html</tspan>
+<tspan x="10" y="5354">224.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rhtml-templates/whitespace2.rh\</tspan>
+<tspan x="10" y="5370">tml</tspan>
+<tspan x="10" y="5386">225.  2017-04-18 22:38:19 +0000        5 bytes  test/test-project/rhtml-templates/whitespace2.rh\</tspan>
+<tspan x="10" y="5402">tml.expected.html</tspan>
+<tspan x="10" y="5418">226.  2017-04-18 22:38:19 +0000       14 bytes  test/test-project/rhtml-templates/whitespace3.rh\</tspan>
+<tspan x="10" y="5434">tml</tspan>
+<tspan x="10" y="5450">227.  2017-04-18 22:38:19 +0000        7 bytes  test/test-project/rhtml-templates/whitespace3.rh\</tspan>
+<tspan x="10" y="5466">tml.expected.html</tspan>
+<tspan x="10" y="5482">228.  2017-04-18 22:38:19 +0000      409 bytes  test/test-project/rhtml-templates/widgets.rhtml</tspan>
+<tspan x="10" y="5498">229.  2017-04-18 22:38:19 +0000      314 bytes  test/test-project/rhtml-templates/widgets_nested\</tspan>
+<tspan x="10" y="5514">.rhtml</tspan>
+<tspan x="10" y="5530">230.  2017-04-18 22:38:19 +0000      132 bytes  test/test-project/rhtml-templates/with.rhtml</tspan>
+<tspan x="10" y="5546">231.  2017-04-18 22:38:19 +0000       63 bytes  test/test-project/rhtml-templates/with.rhtml.exp\</tspan>
+<tspan x="10" y="5562">ected.html</tspan>
+<tspan x="10" y="5578">232.  2017-04-18 22:38:19 +0000      466 bytes  test/test-project/rhtml-templates/xml-escaping.r\</tspan>
+<tspan x="10" y="5594">html</tspan>
+<tspan x="10" y="5610">233.  2017-04-18 22:38:19 +0000      378 bytes  test/test-project/rhtml-templates/xml-escaping.r\</tspan>
+<tspan x="10" y="5626">html.expected.html</tspan>
+<tspan x="10" y="5642">234.  2017-04-18 22:38:19 +0000      590 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5658">args.rxml</tspan>
+<tspan x="10" y="5674">235.  2017-04-18 22:38:19 +0000      224 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5690">data-providers.rxml</tspan>
+<tspan x="10" y="5706">236.  2017-04-18 22:38:19 +0000      152 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5722">function-data-provider.rxml</tspan>
+<tspan x="10" y="5738">237.  2017-04-18 22:38:19 +0000      211 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5754">macros.rxml</tspan>
+<tspan x="10" y="5770">238.  2017-04-18 22:38:19 +0000      405 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5786">ordering.rxml</tspan>
+<tspan x="10" y="5802">239.  2017-04-18 22:38:19 +0000      820 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5818">ordering2.rxml</tspan>
+<tspan x="10" y="5834">240.  2017-04-18 22:38:19 +0000      139 bytes  test/test-project/rxml-templates/async-fragment-\</tspan>
+<tspan x="10" y="5850">promise.rxml</tspan>
+<tspan x="10" y="5866">241.  2017-04-18 22:38:19 +0000      664 bytes  test/test-project/rxml-templates/async-fragment.\</tspan>
+<tspan x="10" y="5882">rxml</tspan>
+<tspan x="10" y="5898">242.  2017-04-18 22:38:19 +0000      142 bytes  test/test-project/rxml-templates/attrs.rxml</tspan>
+<tspan x="10" y="5914">243.  2017-04-18 22:38:19 +0000      120 bytes  test/test-project/rxml-templates/attrs.rxml.expe\</tspan>
+<tspan x="10" y="5930">cted.html</tspan>
+<tspan x="10" y="5946">244.  2017-04-18 22:38:19 +0000      108 bytes  test/test-project/rxml-templates/beginAsync.rxml</tspan>
+<tspan x="10" y="5962">245.  2017-04-18 22:38:19 +0000      577 bytes  test/test-project/rxml-templates/caching.rxml</tspan>
+<tspan x="10" y="5978">246.  2017-04-18 22:38:19 +0000       48 bytes  test/test-project/rxml-templates/caching.rxml.ex\</tspan>
+<tspan x="10" y="5994">pected.html</tspan>
+<tspan x="10" y="6010">247.  2017-04-18 22:38:19 +0000       50 bytes  test/test-project/rxml-templates/cdata.rxml</tspan>
+<tspan x="10" y="6026">248.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rxml-templates/cdata.rxml.expe\</tspan>
+<tspan x="10" y="6042">cted.html</tspan>
+<tspan x="10" y="6058">249.  2017-04-18 22:38:19 +0000      415 bytes  test/test-project/rxml-templates/choose-when-att\</tspan>
+<tspan x="10" y="6074">ributes.rxml</tspan>
+<tspan x="10" y="6090">250.  2017-04-18 22:38:19 +0000       70 bytes  test/test-project/rxml-templates/choose-when-att\</tspan>
+<tspan x="10" y="6106">ributes.rxml.expected.html</tspan>
+<tspan x="10" y="6122">251.  2017-04-18 22:38:19 +0000      379 bytes  test/test-project/rxml-templates/choose-when.rxm\</tspan>
+<tspan x="10" y="6138">l</tspan>
+<tspan x="10" y="6154">252.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/rxml-templates/choose-when.rxm\</tspan>
+<tspan x="10" y="6170">l.expected.html</tspan>
+<tspan x="10" y="6186">253.  2017-04-18 22:38:19 +0000      151 bytes  test/test-project/rxml-templates/conditional-att\</tspan>
+<tspan x="10" y="6202">ributes.rxml</tspan>
+<tspan x="10" y="6218">254.  2017-04-18 22:38:19 +0000       52 bytes  test/test-project/rxml-templates/conditional-att\</tspan>
+<tspan x="10" y="6234">ributes.rxml.expected.html</tspan>
+<tspan x="10" y="6250">255.  2017-04-18 22:38:19 +0000      145 bytes  test/test-project/rxml-templates/content.rxml</tspan>
+<tspan x="10" y="6266">256.  2017-04-18 22:38:19 +0000       16 bytes  test/test-project/rxml-templates/content.rxml.ex\</tspan>
+<tspan x="10" y="6282">pected.html</tspan>
+<tspan x="10" y="6298">257.  2017-04-18 22:38:19 +0000      523 bytes  test/test-project/rxml-templates/data-binding.rx\</tspan>
+<tspan x="10" y="6314">ml</tspan>
+<tspan x="10" y="6330">258.  2017-04-18 22:38:19 +0000      624 bytes  test/test-project/rxml-templates/def.rxml</tspan>
+<tspan x="10" y="6346">259.  2017-04-18 22:38:19 +0000      175 bytes  test/test-project/rxml-templates/def.rxml.expect\</tspan>
+<tspan x="10" y="6362">ed.html</tspan>
+<tspan x="10" y="6378">260.  2017-04-18 22:38:19 +0000      174 bytes  test/test-project/rxml-templates/default-attribu\</tspan>
+<tspan x="10" y="6394">tes.rxml</tspan>
+<tspan x="10" y="6410">261.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rxml-templates/default-attribu\</tspan>
+<tspan x="10" y="6426">tes.rxml.expected.html</tspan>
+<tspan x="10" y="6442">262.  2017-04-18 22:38:19 +0000      304 bytes  test/test-project/rxml-templates/doctype.rxml</tspan>
+<tspan x="10" y="6458">263.  2017-04-18 22:38:19 +0000      183 bytes  test/test-project/rxml-templates/doctype.rxml.ex\</tspan>
+<tspan x="10" y="6474">pected.html</tspan>
+<tspan x="10" y="6490">264.  2017-04-18 22:38:19 +0000       98 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6506">tes.rxml</tspan>
+<tspan x="10" y="6522">265.  2017-04-18 22:38:19 +0000       57 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6538">tes.rxml.expected.html</tspan>
+<tspan x="10" y="6554">266.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6570">tes2.rxml</tspan>
+<tspan x="10" y="6586">267.  2017-04-18 22:38:19 +0000       57 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6602">tes2.rxml.expected.html</tspan>
+<tspan x="10" y="6618">268.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6634">tes3.rxml</tspan>
+<tspan x="10" y="6650">269.  2017-04-18 22:38:19 +0000       65 bytes  test/test-project/rxml-templates/dynamic-attribu\</tspan>
+<tspan x="10" y="6666">tes3.rxml.expected.html</tspan>
+<tspan x="10" y="6682">270.  2017-04-18 22:38:19 +0000      353 bytes  test/test-project/rxml-templates/entities.rxml</tspan>
+<tspan x="10" y="6698">271.  2017-04-18 22:38:19 +0000      197 bytes  test/test-project/rxml-templates/entities.rxml.e\</tspan>
+<tspan x="10" y="6714">xpected.html</tspan>
+<tspan x="10" y="6730">272.  2017-04-18 22:38:19 +0000     1849 bytes  test/test-project/rxml-templates/errors.rxml</tspan>
+<tspan x="10" y="6746">273.  2017-04-18 22:38:19 +0000      114 bytes  test/test-project/rxml-templates/escape-xml-disa\</tspan>
+<tspan x="10" y="6762">bled.rxml</tspan>
+<tspan x="10" y="6778">274.  2017-04-18 22:38:19 +0000       33 bytes  test/test-project/rxml-templates/escape-xml-disa\</tspan>
+<tspan x="10" y="6794">bled.rxml.expected.html</tspan>
+<tspan x="10" y="6810">275.  2017-04-18 22:38:19 +0000      113 bytes  test/test-project/rxml-templates/escape-xml-enab\</tspan>
+<tspan x="10" y="6826">led.rxml</tspan>
+<tspan x="10" y="6842">276.  2017-04-18 22:38:19 +0000       47 bytes  test/test-project/rxml-templates/escape-xml-enab\</tspan>
+<tspan x="10" y="6858">led.rxml.expected.html</tspan>
+<tspan x="10" y="6874">277.  2017-04-18 22:38:19 +0000       89 bytes  test/test-project/rxml-templates/escaped.rxml</tspan>
+<tspan x="10" y="6890">278.  2017-04-18 22:38:19 +0000       28 bytes  test/test-project/rxml-templates/escaped.rxml.ex\</tspan>
+<tspan x="10" y="6906">pected.html</tspan>
+<tspan x="10" y="6922">279.  2017-04-18 22:38:19 +0000       75 bytes  test/test-project/rxml-templates/expressions.rxm\</tspan>
+<tspan x="10" y="6938">l</tspan>
+<tspan x="10" y="6954">280.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rxml-templates/expressions.rxm\</tspan>
+<tspan x="10" y="6970">l.expected.html</tspan>
+<tspan x="10" y="6986">281.  2017-04-18 22:38:19 +0000      149 bytes  test/test-project/rxml-templates/html.rxml</tspan>
+<tspan x="10" y="7002">282.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/rxml-templates/html.rxml.expec\</tspan>
+<tspan x="10" y="7018">ted.html</tspan>
+<tspan x="10" y="7034">283.  2017-04-18 22:38:19 +0000      492 bytes  test/test-project/rxml-templates/if-else.rxml</tspan>
+<tspan x="10" y="7050">284.  2017-04-18 22:38:19 +0000       24 bytes  test/test-project/rxml-templates/if-else.rxml.ex\</tspan>
+<tspan x="10" y="7066">pected.html</tspan>
+<tspan x="10" y="7082">285.  2017-04-18 22:38:19 +0000      239 bytes  test/test-project/rxml-templates/include-nested-\</tspan>
+<tspan x="10" y="7098">content.rxml</tspan>
+<tspan x="10" y="7114">286.  2017-04-18 22:38:19 +0000      131 bytes  test/test-project/rxml-templates/include-resourc\</tspan>
+<tspan x="10" y="7130">e-static.rxml</tspan>
+<tspan x="10" y="7146">287.  2017-04-18 22:38:19 +0000       22 bytes  test/test-project/rxml-templates/include-resourc\</tspan>
+<tspan x="10" y="7162">e-static.rxml.expected.html</tspan>
+<tspan x="10" y="7178">288.  2017-04-18 22:38:19 +0000       12 bytes  test/test-project/rxml-templates/include-resourc\</tspan>
+<tspan x="10" y="7194">e-target.txt</tspan>
+<tspan x="10" y="7210">289.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/rxml-templates/include-target.\</tspan>
+<tspan x="10" y="7226">rxml</tspan>
+<tspan x="10" y="7242">290.  2017-04-18 22:38:19 +0000      469 bytes  test/test-project/rxml-templates/include.rxml</tspan>
+<tspan x="10" y="7258">291.  2017-04-18 22:38:19 +0000      222 bytes  test/test-project/rxml-templates/include.rxml.ex\</tspan>
+<tspan x="10" y="7274">pected.html</tspan>
+<tspan x="10" y="7290">292.  2017-04-18 22:38:19 +0000        3 bytes  test/test-project/rxml-templates/include.rxml.ex\</tspan>
+<tspan x="10" y="7306">pected.js</tspan>
+<tspan x="10" y="7322">293.  2017-04-18 22:38:19 +0000      333 bytes  test/test-project/rxml-templates/inline-script.r\</tspan>
+<tspan x="10" y="7338">xml</tspan>
+<tspan x="10" y="7354">294.  2017-04-18 22:38:19 +0000      200 bytes  test/test-project/rxml-templates/inline-script.r\</tspan>
+<tspan x="10" y="7370">xml.expected.html</tspan>
+<tspan x="10" y="7386">295.  2017-04-18 22:38:19 +0000      585 bytes  test/test-project/rxml-templates/invoke.rxml</tspan>
+<tspan x="10" y="7402">296.  2017-04-18 22:38:19 +0000      119 bytes  test/test-project/rxml-templates/invoke.rxml.exp\</tspan>
+<tspan x="10" y="7418">ected.html</tspan>
+<tspan x="10" y="7434">297.  2017-04-18 22:38:19 +0000      319 bytes  test/test-project/rxml-templates/layout-default.\</tspan>
+<tspan x="10" y="7450">rxml</tspan>
+<tspan x="10" y="7466">298.  2017-04-18 22:38:19 +0000     1000 bytes  test/test-project/rxml-templates/layout-use.rxml</tspan>
+<tspan x="10" y="7482">299.  2017-04-18 22:38:19 +0000      214 bytes  test/test-project/rxml-templates/layout-use.rxml\</tspan>
+<tspan x="10" y="7498">.expected.html</tspan>
+<tspan x="10" y="7514">300.  2017-04-18 22:38:19 +0000      535 bytes  test/test-project/rxml-templates/looping-iterato\</tspan>
+<tspan x="10" y="7530">r.rxml</tspan>
+<tspan x="10" y="7546">301.  2017-04-18 22:38:19 +0000      277 bytes  test/test-project/rxml-templates/looping-props.r\</tspan>
+<tspan x="10" y="7562">xml</tspan>
+<tspan x="10" y="7578">302.  2017-04-18 22:38:19 +0000       65 bytes  test/test-project/rxml-templates/looping-props.r\</tspan>
+<tspan x="10" y="7594">xml.expected.html</tspan>
+<tspan x="10" y="7610">303.  2017-04-18 22:38:19 +0000      497 bytes  test/test-project/rxml-templates/looping.rxml</tspan>
+<tspan x="10" y="7626">304.  2017-04-18 22:38:19 +0000      199 bytes  test/test-project/rxml-templates/looping.rxml.ex\</tspan>
+<tspan x="10" y="7642">pected.html</tspan>
+<tspan x="10" y="7658">305.  2017-04-18 22:38:19 +0000      509 bytes  test/test-project/rxml-templates/nested-attrs.rx\</tspan>
+<tspan x="10" y="7674">ml</tspan>
+<tspan x="10" y="7690">306.  2017-04-18 22:38:19 +0000      161 bytes  test/test-project/rxml-templates/nested-attrs.rx\</tspan>
+<tspan x="10" y="7706">ml.expected.html</tspan>
+<tspan x="10" y="7722">307.  2017-04-18 22:38:19 +0000      384 bytes  test/test-project/rxml-templates/nested-handlers\</tspan>
+<tspan x="10" y="7738">.rxml</tspan>
+<tspan x="10" y="7754">308.  2017-04-18 22:38:19 +0000      313 bytes  test/test-project/rxml-templates/nested-handlers\</tspan>
+<tspan x="10" y="7770">.rxml.expected.html</tspan>
+<tspan x="10" y="7786">309.  2017-04-18 22:38:19 +0000      445 bytes  test/test-project/rxml-templates/optimizer-dynam\</tspan>
+<tspan x="10" y="7802">ic.rxml</tspan>
+<tspan x="10" y="7818">310.  2017-04-18 22:38:19 +0000      414 bytes  test/test-project/rxml-templates/optimizer.rxml</tspan>
+<tspan x="10" y="7834">311.  2017-04-18 22:38:19 +0000      295 bytes  test/test-project/rxml-templates/replace.rxml</tspan>
+<tspan x="10" y="7850">312.  2017-04-18 22:38:19 +0000       19 bytes  test/test-project/rxml-templates/replace.rxml.ex\</tspan>
+<tspan x="10" y="7866">pected.html</tspan>
+<tspan x="10" y="7882">313.  2017-04-18 22:38:19 +0000      177 bytes  test/test-project/rxml-templates/require.rxml</tspan>
+<tspan x="10" y="7898">314.  2017-04-18 22:38:19 +0000       25 bytes  test/test-project/rxml-templates/require.rxml.ex\</tspan>
+<tspan x="10" y="7914">pected.html</tspan>
+<tspan x="10" y="7930">315.  2017-04-18 22:38:19 +0000      153 bytes  test/test-project/rxml-templates/scriptlet.rxml</tspan>
+<tspan x="10" y="7946">316.  2017-04-18 22:38:19 +0000        7 bytes  test/test-project/rxml-templates/scriptlet.rxml.\</tspan>
+<tspan x="10" y="7962">expected.html</tspan>
+<tspan x="10" y="7978">317.  2017-04-18 22:38:19 +0000      440 bytes  test/test-project/rxml-templates/simple-conditio\</tspan>
+<tspan x="10" y="7994">nals.rxml</tspan>
+<tspan x="10" y="8010">318.  2017-04-18 22:38:19 +0000      167 bytes  test/test-project/rxml-templates/simple-conditio\</tspan>
+<tspan x="10" y="8026">nals.rxml.expected.html</tspan>
+<tspan x="10" y="8042">319.  2017-04-18 22:38:19 +0000      338 bytes  test/test-project/rxml-templates/simple-handlers\</tspan>
+<tspan x="10" y="8058">.rxml</tspan>
+<tspan x="10" y="8074">320.  2017-04-18 22:38:19 +0000      122 bytes  test/test-project/rxml-templates/simple-handlers\</tspan>
+<tspan x="10" y="8090">.rxml.expected.html</tspan>
+<tspan x="10" y="8106">321.  2017-04-18 22:38:19 +0000      335 bytes  test/test-project/rxml-templates/simple.rxml</tspan>
+<tspan x="10" y="8122">322.  2017-04-18 22:38:19 +0000      151 bytes  test/test-project/rxml-templates/simple.rxml.exp\</tspan>
+<tspan x="10" y="8138">ected.html</tspan>
+<tspan x="10" y="8154">323.  2017-04-18 22:38:19 +0000      276 bytes  test/test-project/rxml-templates/simple.rxml.min\</tspan>
+<tspan x="10" y="8170">.js</tspan>
+<tspan x="10" y="8186">324.  2017-04-18 22:38:19 +0000      112 bytes  test/test-project/rxml-templates/string-concat-w\</tspan>
+<tspan x="10" y="8202">ith-ternary-operator.rxml</tspan>
+<tspan x="10" y="8218">325.  2017-04-18 22:38:19 +0000       45 bytes  test/test-project/rxml-templates/string-concat-w\</tspan>
+<tspan x="10" y="8234">ith-ternary-operator.rxml.expected.html</tspan>
+<tspan x="10" y="8250">326.  2017-04-18 22:38:19 +0000      260 bytes  test/test-project/rxml-templates/string-concat-w\</tspan>
+<tspan x="10" y="8266">ith-ternary-operator.rxml.expected.js</tspan>
+<tspan x="10" y="8282">327.  2017-04-18 22:38:19 +0000      147 bytes  test/test-project/rxml-templates/string-expressi\</tspan>
+<tspan x="10" y="8298">ons.rxml</tspan>
+<tspan x="10" y="8314">328.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rxml-templates/string-expressi\</tspan>
+<tspan x="10" y="8330">ons.rxml.expected.html</tspan>
+<tspan x="10" y="8346">329.  2017-04-18 22:38:19 +0000      327 bytes  test/test-project/rxml-templates/strip.rxml</tspan>
+<tspan x="10" y="8362">330.  2017-04-18 22:38:19 +0000      102 bytes  test/test-project/rxml-templates/strip.rxml.expe\</tspan>
+<tspan x="10" y="8378">cted.html</tspan>
+<tspan x="10" y="8394">331.  2017-04-18 22:38:19 +0000     1277 bytes  test/test-project/rxml-templates/svg.rxml</tspan>
+<tspan x="10" y="8410">332.  2017-04-18 22:38:19 +0000       86 bytes  test/test-project/rxml-templates/tag-input-expre\</tspan>
+<tspan x="10" y="8426">ssions.rxml</tspan>
+<tspan x="10" y="8442">333.  2017-04-18 22:38:19 +0000       23 bytes  test/test-project/rxml-templates/tag-input-expre\</tspan>
+<tspan x="10" y="8458">ssions.rxml.expected.html</tspan>
+<tspan x="10" y="8474">334.  2017-04-18 22:38:19 +0000       96 bytes  test/test-project/rxml-templates/template-as-tag\</tspan>
+<tspan x="10" y="8490">.rxml</tspan>
+<tspan x="10" y="8506">335.  2017-04-18 22:38:19 +0000       33 bytes  test/test-project/rxml-templates/template-as-tag\</tspan>
+<tspan x="10" y="8522">.rxml.expected.html</tspan>
+<tspan x="10" y="8538">336.  2017-04-18 22:38:19 +0000      191 bytes  test/test-project/rxml-templates/test-helpers.js</tspan>
+<tspan x="10" y="8554">337.  2017-04-18 22:38:19 +0000      141 bytes  test/test-project/rxml-templates/text-replacemen\</tspan>
+<tspan x="10" y="8570">t.rxml</tspan>
+<tspan x="10" y="8586">338.  2017-04-18 22:38:19 +0000       37 bytes  test/test-project/rxml-templates/text-replacemen\</tspan>
+<tspan x="10" y="8602">t.rxml.expected.html</tspan>
+<tspan x="10" y="8618">339.  2017-04-18 22:38:19 +0000      299 bytes  test/test-project/rxml-templates/var.rxml</tspan>
+<tspan x="10" y="8634">340.  2017-04-18 22:38:19 +0000       96 bytes  test/test-project/rxml-templates/var.rxml.expect\</tspan>
+<tspan x="10" y="8650">ed.html</tspan>
+<tspan x="10" y="8666">341.  2017-04-18 22:38:19 +0000      390 bytes  test/test-project/rxml-templates/whitespace-inli\</tspan>
+<tspan x="10" y="8682">ne-elements.rxml</tspan>
+<tspan x="10" y="8698">342.  2017-04-18 22:38:19 +0000      176 bytes  test/test-project/rxml-templates/whitespace-inli\</tspan>
+<tspan x="10" y="8714">ne-elements.rxml.expected.html</tspan>
+<tspan x="10" y="8730">343.  2017-04-18 22:38:19 +0000     1444 bytes  test/test-project/rxml-templates/whitespace.rxml</tspan>
+<tspan x="10" y="8746">344.  2017-04-18 22:38:19 +0000      299 bytes  test/test-project/rxml-templates/whitespace.rxml\</tspan>
+<tspan x="10" y="8762">.expected.html</tspan>
+<tspan x="10" y="8778">345.  2017-04-18 22:38:19 +0000       42 bytes  test/test-project/rxml-templates/whitespace2.rxm\</tspan>
+<tspan x="10" y="8794">l</tspan>
+<tspan x="10" y="8810">346.  2017-04-18 22:38:19 +0000        5 bytes  test/test-project/rxml-templates/whitespace2.rxm\</tspan>
+<tspan x="10" y="8826">l.expected.html</tspan>
+<tspan x="10" y="8842">347.  2017-04-18 22:38:19 +0000       40 bytes  test/test-project/rxml-templates/whitespace3.rxm\</tspan>
+<tspan x="10" y="8858">l</tspan>
+<tspan x="10" y="8874">348.  2017-04-18 22:38:19 +0000        7 bytes  test/test-project/rxml-templates/whitespace3.rxm\</tspan>
+<tspan x="10" y="8890">l.expected.html</tspan>
+<tspan x="10" y="8906">349.  2017-04-18 22:38:19 +0000      502 bytes  test/test-project/rxml-templates/widgets.rxml</tspan>
+<tspan x="10" y="8922">350.  2017-04-18 22:38:19 +0000      375 bytes  test/test-project/rxml-templates/widgets_nested.\</tspan>
+<tspan x="10" y="8938">rxml</tspan>
+<tspan x="10" y="8954">351.  2017-04-18 22:38:19 +0000      180 bytes  test/test-project/rxml-templates/with.rxml</tspan>
+<tspan x="10" y="8970">352.  2017-04-18 22:38:19 +0000       63 bytes  test/test-project/rxml-templates/with.rxml.expec\</tspan>
+<tspan x="10" y="8986">ted.html</tspan>
+<tspan x="10" y="9002">353.  2017-04-18 22:38:19 +0000      487 bytes  test/test-project/rxml-templates/xml-escaping.rx\</tspan>
+<tspan x="10" y="9018">ml</tspan>
+<tspan x="10" y="9034">354.  2017-04-18 22:38:19 +0000      378 bytes  test/test-project/rxml-templates/xml-escaping.rx\</tspan>
+<tspan x="10" y="9050">ml.expected.html</tspan>
+<tspan x="10" y="9066">355.  2017-04-18 22:38:19 +0000      106 bytes  test/test-project/scanned-tags/scanned-a/rendere\</tspan>
+<tspan x="10" y="9082">r.js</tspan>
+<tspan x="10" y="9098">356.  2017-04-18 22:38:19 +0000       29 bytes  test/test-project/scanned-tags/scanned-b/templat\</tspan>
+<tspan x="10" y="9114">e.rhtml</tspan>
+<tspan x="10" y="9130">357.  2017-04-18 22:38:19 +0000      125 bytes  test/test-project/scanned-tags/scanned-c/raptor-\</tspan>
+<tspan x="10" y="9146">tag.json</tspan>
+<tspan x="10" y="9162">358.  2017-04-18 22:38:19 +0000      106 bytes  test/test-project/scanned-tags/scanned-c/rendere\</tspan>
+<tspan x="10" y="9178">r.js</tspan>
+<tspan x="10" y="9194">359.  2017-04-18 22:38:19 +0000      170 bytes  test/test-project/scanned-tags/scanned-d/templat\</tspan>
+<tspan x="10" y="9210">e.rhtml</tspan>
+<tspan x="10" y="9226">360.  2017-04-18 22:38:19 +0000      248 bytes  test/test-project/scanned-tags/scanned-e/rendere\</tspan>
+<tspan x="10" y="9242">r.js</tspan>
+<tspan x="10" y="9258">361.  2017-04-18 22:38:19 +0000      245 bytes  test/test-project/scanned-tags/scanned-f/rendere\</tspan>
+<tspan x="10" y="9274">r.js</tspan>
+<tspan x="10" y="9290">362.  2017-04-18 22:38:19 +0000      163 bytes  test/test-project/simple-hello-tag.js</tspan>
+<tspan x="10" y="9306">363.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/simple.rhtml</tspan>
+<tspan x="10" y="9322">364.  2017-04-18 22:38:19 +0000       10 bytes  test/test-project/simple.rhtml.expected.html</tspan>
+<tspan x="10" y="9338">365.  2017-04-18 22:38:19 +0000      207 bytes  test/test-project/simple.rhtml.expected.js</tspan>
+<tspan x="10" y="9354">366.  2017-04-18 22:38:19 +0000       99 bytes  test/test-project/tab-tag.js</tspan>
+<tspan x="10" y="9370">367.  2017-04-18 22:38:19 +0000      736 bytes  test/test-project/tabs-tag.js</tspan>
+<tspan x="10" y="9386">368.  2017-04-18 22:38:19 +0000      454 bytes  test/test-project/tabs.rhtml</tspan>
+<tspan x="10" y="9402">369.  2017-04-18 22:38:19 +0000        3 bytes  test/test-project/tabs.rhtml.expected.js</tspan>
+<tspan x="10" y="9418">370.  2017-04-18 22:38:19 +0000       61 bytes  test/test-project/transformers/bar-transformer.j\</tspan>
+<tspan x="10" y="9434">s</tspan>
+<tspan x="10" y="9450">371.  2017-04-18 22:38:19 +0000       61 bytes  test/test-project/transformers/foo-transformer.j\</tspan>
+<tspan x="10" y="9466">s</tspan>
+<tspan x="10" y="9482">372.  2017-04-18 22:38:19 +0000      403 bytes  test/test-project/transformers/raptor-taglib.jso\</tspan>
+<tspan x="10" y="9498">n</tspan>
+</text>
+</svg>
